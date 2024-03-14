@@ -3,8 +3,8 @@
 
 
 <div>1111</div>
-<div style="display:flex;">
- <video autoPlay playsInline loop src="https://vjs.zencdn.net/v/oceans.mp4"></video>
- <video autoPlay playsInline loop src="https://vjs.zencdn.net/v/oceans.mp4"></video>
- <video autoPlay playsInline loop src="https://vjs.zencdn.net/v/oceans.mp4"></video>
+<div style="display:flex;flex-direction: column;">
+ <div>111</div>
+  <div>121</div>
+  <div>131</div>
 </div>
